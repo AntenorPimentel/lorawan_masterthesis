@@ -16,3 +16,6 @@ C:\Users\Pimentel\Desktop\ProcessorDublinBusData\ProcessorDublinBusData\bin\Debu
 C:\Users\Pimentel\Desktop\ProcessorDublinBusData\ProcessorDublinBusData\bin\Debug\System.Json.dll
 C:\Users\Pimentel\Desktop\ProcessorDublinBusData\ProcessorDublinBusData\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Pimentel\Desktop\ProcessorDublinBusData\ProcessorDublinBusData\obj\Debug\ProcessorDublinBusData.csprojResolveAssemblyReference.cache
+C:\Users\Pimentel\Documents\GitHub\lorawan_masterthesis\ProcessorDublinBusData\bin\Debug\ProcessorDublinBusData.exe.config
+C:\Users\Pimentel\Documents\GitHub\lorawan_masterthesis\ProcessorDublinBusData\obj\Debug\ProcessorDublinBusData.exe
+C:\Users\Pimentel\Documents\GitHub\lorawan_masterthesis\ProcessorDublinBusData\obj\Debug\ProcessorDublinBusData.pdb
